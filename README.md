@@ -8,7 +8,7 @@ You can find these vignettes as pre-compiled HTML files at the ReactomeGSA [Bioc
 
 ## Comparative Pathway Analysis
 
-  * **[TCGA Cancer Analysis](notebooks/TCGA B Cell Analysis.ipynb)**: An analysis of B cell rich vs. poor cancer samples from the TCGA studies on melanoma, ovarian, lung (adenocarcinoma and squamous cell carcinoma), and breast cancer as well as the corresponding CPTAC proteomics studies on breast and ovarian cancer.
+  * **[TCGA Cancer Analysis](notebooks/TCGA_B_Cell_Analysis.ipynb)**: An analysis of B cell rich vs. poor cancer samples from the TCGA studies on melanoma, ovarian, lung (adenocarcinoma and squamous cell carcinoma), and breast cancer as well as the corresponding CPTAC proteomics studies on breast and ovarian cancer.
 
 ## Single Cell Analysis
 
