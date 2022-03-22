@@ -10,6 +10,8 @@ You can find these vignettes as pre-compiled HTML files at the ReactomeGSA [Bioc
 
   * **[TCGA Cancer Analysis](notebooks/TCGA_B_Cell_Analysis.ipynb)**: An analysis of B cell rich vs. poor cancer samples from the TCGA studies on melanoma, ovarian, lung (adenocarcinoma and squamous cell carcinoma), and breast cancer as well as the corresponding CPTAC proteomics studies on breast and ovarian cancer.
 
+  * **[GEO Atopic Dermatitis Example](notebooks/ReactomeGSA-Immunology_Example.ipynb)**: This notebook shows how to analyse datasets from GEO using ReactomeGSA. Most importantly we showcase how to combine the use of *GEOQuery* with *ReactomeGSA*. Finally, this notebook also contains an example of how to perform a time course analysis.
+
 ## Single Cell Analysis
 
   * **[B cell subtype analysis](notebooks/Jerby_Arnon_Seurat.ipynb)**: An analysis of B cells extracted from the single-cell RNA-sequencing dataset published by Jerby-Arnon *et al.* (Cell, 2018). ReactomeGSA allowed us to quickly compare different pathway functions in the identified B cell subtypes.
